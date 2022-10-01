@@ -7,4 +7,4 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 # Kata
 ## Rank:8 kyu
 
-* `Multiply` ||  [  `multiply.sol`  ](/Code-Sol/Multiply.sol)  Site [CodeWars, rb  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/solidity)
+* `Multiply` ||  [  `Multiply.sol`  ](/Code-Sol/Multiply.sol)  Site [CodeWars, sol  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/solidity)
